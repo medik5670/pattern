@@ -19,7 +19,6 @@ class CardDeliveryTest {
     }
 
     @Test
-    @DisplayName("Should successful plan meeting")
     void shouldSuccessfulPlanMeeting() {
         var validUser = DataGenerator.Registration.generateUser("ru");
         var daysToAddForFirstMeeting = 4;
