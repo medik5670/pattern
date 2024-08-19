@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/r3rfmbopd7dyid54/branch/main?svg=true)](https://ci.appveyor.com/project/medik5670/pattern-euc0v/branch/main)
+![34017](https://github.com/user-attachments/assets/34eee198-cb31-4116-93f7-fec5297f298a)
